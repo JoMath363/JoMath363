@@ -22,6 +22,6 @@
 
 <h3 align="left">My Leetcode Progression:</h3>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jomath363?theme=nord&font=Noto%20Sans%20SC)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jomath363?theme=dark&font=Noto%20Sans%20SC)
 
 
