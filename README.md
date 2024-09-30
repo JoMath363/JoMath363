@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jomath363)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jomath363?theme=nord&font=Belgrano)
