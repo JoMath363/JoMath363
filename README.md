@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm José Mathias</h1>
 <h3 align="center">Passionate Learner | Begginer Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at **...**
 
@@ -13,9 +13,7 @@
 
 - ⚡ Fun fact **I know how to crochet :)**
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
+<h3 align="left">Techs:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
