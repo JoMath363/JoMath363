@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **mathias260405@gmail.com**
 
-- ⚡ Fun fact **I know how to crochet :)**
 
 
 <div align="left">
