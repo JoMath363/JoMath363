@@ -3,10 +3,10 @@
 <h1 align="center">Hi 👋, I'm José Mathias</h1>
 <h3 align="center">Passionate Learner | Web Developer </h3>
 
-- 🌱 I’m currently learning **APIs Development With Node.js**
-
-- 📫 How to reach me **mathias260405@gmail.com**
-
+- ✨ Creating bugs since: 2024
+- 📚 I'm currently learning: **API Development With Node.js**
+- 📫 How to reach me: **mathias260405@gmail.com**
+- 🎲 Fun fact: I'm a pianist
 
 
 <div align="left">
