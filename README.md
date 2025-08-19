@@ -8,8 +8,9 @@
 
 <p align="left">
   ✨ Creating bugs since: 2024
-  <br>📚 I'm currently learning: <b>API Development With Node.js </b> 
+  <br>📚 I'm currently learning: <b>Full-Stack Development with React, Node and TypeScript</b> 
   <br>📫 How to reach me: <b>mathias260405@gmail.com</b>
+  <br>🔭 I'm currently working on: <b>Full-Stack E-Commercer Application</b> 
 </p>
 
 ###
